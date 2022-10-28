@@ -1,0 +1,14 @@
+h1, p {
+  font-family: Lato;
+}
+
+.FormContainer{
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2); 
+  margin: 0 auto;
+  padding: 2%;
+}
+@media only screen and (min-width: 768px) {
+  .FormContainer{
+    width:30%;
+  }
+}
